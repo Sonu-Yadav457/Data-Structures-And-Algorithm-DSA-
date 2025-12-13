@@ -1,0 +1,5 @@
+Function in Memory:-
+
+Functions are stored in call Stack. Because the control of a C++ program starts from main() Function so always at the bottom of the
+stack there will be main function. And as main() calls a functions the function occupies memory in the call Stack above it.MoreOver
+all the variables in a function will e stored the stack frame of the function and as the function ends it gets removed from the stack.
